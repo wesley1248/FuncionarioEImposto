@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\bin\Debug\FuncionarioEImposto.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\bin\Debug\FuncionarioEImposto.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\bin\Debug\FuncionarioEImposto.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\obj\Debug\FuncionarioEImposto.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\obj\Debug\FuncionarioEImposto.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\obj\Debug\FuncionarioEImposto.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\obj\Debug\FuncionarioEImposto.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\FuncionarioEImposto\FuncionarioEImposto\obj\Debug\FuncionarioEImposto.pdb
